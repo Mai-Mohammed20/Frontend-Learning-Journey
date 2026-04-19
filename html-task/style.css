@@ -1,0 +1,8 @@
+#Home{ background-color: blueviolet;
+animation: infinite;
+animation-delay: 10s;
+animation-direction: alternate;
+}
+div:hover{
+ border-radius: 50px;   
+    transition: 10s;}
